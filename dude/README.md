@@ -1,9 +1,13 @@
 # Prabhat Kumar — [@maverickly](https://github.com/maverickly)
 
-¶ About — http://prabhatkumar.org/.
+¶ About</br>
+— http://prabhatkumar.org/.
 
-¶ Project — maverickly/maverickly
+¶ Project</br>
+— [maverickly/maverickly](https://github.com/maverickly/maverickly)
 
-¶ Location — India, ※ Earth.
+¶ Location</br>
+— India, ※ Earth.
 
-¶ Day Time — Data Scientist.
+¶ Day Time</br>
+— Data Scientist.
